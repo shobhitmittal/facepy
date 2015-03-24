@@ -17,7 +17,7 @@ from decimal import Decimal
 import six
 
 from facepy.exceptions import *
-
+ 
 
 class GraphAPI(object):
     def __init__(self, oauth_token=False, url='https://graph.facebook.com', verify_ssl_certificate=True, appsecret=False, timeout=None, version=None):

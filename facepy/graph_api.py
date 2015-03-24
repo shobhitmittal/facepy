@@ -14,7 +14,7 @@ except ImportError:
     import urlparse
 from decimal import Decimal
 
-import six
+import six#bghjdgf#
 
 from facepy.exceptions import *
  
